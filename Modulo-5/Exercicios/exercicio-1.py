@@ -3,4 +3,4 @@ cont = 0
 
 while (linguagensProg[cont] != "Python") :
     cont += 1
-print(f"A linguagem {linguagensProg[cont]} está na posição {cont}")
+print(f"A linguagem {linguagensProg[cont]} está na posição {cont + 1}")
