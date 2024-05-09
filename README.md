@@ -26,8 +26,7 @@ O repositório está organizado da seguinte forma:
   
 - **Modulo-6/**
   - **Exercicios/**: Esta pasta contém os exercícios relacionados ao Módulo 6 do curso de Python.
-  - **Desafios/**: Aqui estão os desafios realizados durante o Módulo 6.
+  - **Exemplos/**: Esta pasta contém os exemplos de importações de bibliotecas.
   
 - **Modulo-7/**
   - **Exercicios/**: Esta pasta contém os exercícios relacionados ao Módulo 7 do curso de Python.
-  - **Desafios/**: Aqui estão os desafios realizados durante o Módulo 7.
