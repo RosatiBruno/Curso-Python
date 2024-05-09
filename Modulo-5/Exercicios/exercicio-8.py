@@ -15,6 +15,7 @@ if (produtoDesejado in produtos) :
 else :
     print("Produto não encontrado!")
 
+#! Retirando items do estoque
 for item in pedido :
     produto = item["produto"]
     qtd = item["quantidade"]
@@ -28,6 +29,7 @@ for item in pedido :
 print(f"Custo total: {total}\n")
 print("Estoque:")
 
+#! Mostrando o que ainda tem no estoque
 for chave,valor in produtos.items() :
     print("Descrição:", chave)
     print("Quantidade:", valor[0])
