@@ -30,3 +30,6 @@ O repositório está organizado da seguinte forma:
   
 - **Modulo-7/**
   - **Exercicios/**: Esta pasta contém os exercícios relacionados ao Módulo 7 do curso de Python.
+ 
+- **Modulo-TkInter/**
+  - **calculadora.py**: Calculadora realizada utilizando TkInter. 
